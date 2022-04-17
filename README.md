@@ -1,1 +1,6 @@
-# health_informatics
+# Tankar och idéer
+```mermaid
+graph LR
+  A-->B
+  A-->C
+  ```
