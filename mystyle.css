@@ -5,5 +5,6 @@ h1 {
 .center {
     /* Center child horizontally*/
     display: flex;
+    flex-direction: column;
     justify-content: center;
   }
