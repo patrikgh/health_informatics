@@ -1,7 +1,7 @@
 .content {
     display:block
     margin-right: auto;
-    margin-left:auto;
+    margin: left 100px;
     max-width: 960px;
 }
 h1, p {
