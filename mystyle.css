@@ -1,8 +1,6 @@
 .content {
-    display:block
-    margin-right: auto;
-    margin: left 100px;
-    max-width: 960px;
+    display:flex;
+    align-items: center;
 }
 h1, p {
     text-indent: 50px;
