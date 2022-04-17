@@ -1,4 +1,9 @@
-* {
+h1 {
+    text-align: center;
+    color: darkslategray;
+}
+
+body {
     /* Center child horizontally*/
     display: flex;
     justify-content: center;
