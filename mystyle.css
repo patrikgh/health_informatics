@@ -1,12 +1,8 @@
-h1 {
-    color: darkslategray;
-}
-
 .content {
     max-width: 500px;
     margin: 100px;
 }
-p {
+h1, p {
     text-indent: 50px;
     text-align: justify;
     letter-spacing: 2px;
